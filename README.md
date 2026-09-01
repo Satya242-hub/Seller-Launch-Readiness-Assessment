@@ -1,7 +1,5 @@
-Here’s a concise README for your second project:
-
-Writing
 Seller Launch Readiness Assessment
+
 Project Overview
 
 This project simulates the process of assessing whether sellers are ready for launch on an e-commerce platform.
@@ -22,16 +20,18 @@ Total Sellers Assessed: 10
 Launch Ready: 4
 Not Ready: 6
 Launch Readiness Rate: 40%
+
 Key Insights
 4 out of 10 sellers were ready for launch.
 6 sellers required additional action before launch.
 Training had the highest number of pending requirements.
 Sellers with infrastructure or verification gaps require priority follow-up.
+
 Tools Used
 Microsoft Excel
 Excel formulas
 Basic data analysis
 Column charts
-Project Outcome
 
+Project Outcome
 Identified seller launch blockers and prioritized infrastructure, verification, and training requirements to improve overall launch readiness.
