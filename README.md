@@ -1,5 +1,6 @@
-# Seller-Launch-Readiness-Assessment
+Here’s a concise README for your second project:
 
+Writing
 Seller Launch Readiness Assessment
 Project Overview
 
